@@ -22,4 +22,4 @@ El análisis fue desarrollado en un entorno de **Jupyter Notebook** usando el le
 
 El proyecto completo, incluyendo el código y todas las visualizaciones, está disponible en el siguiente enlace.
 
-Link: videodata.netlify.app
+[**Ver el Notebook del Proyecto**](videodata.netlify.app)
